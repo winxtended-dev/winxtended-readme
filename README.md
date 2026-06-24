@@ -1,6 +1,12 @@
 # WinXTended Project
 The Windows XP modification project, created, directed, and maintained by WinUpgrade, oriented on providing the most commonly used program set for everyday-use and with some fancy wallpapers :P
 
+## OFFICIAL LINKS:
+Mastodon: https://mastodon.social/@kernelexception
+Github: https://github.com/winxtended-dev/winxtended-readme
+Reddit post: https://www.reddit.com/r/windowsxp/comments/1ue82bx/made_custom_windows_xp_build_initially_just_for/
+Bluesky: https://bsky.app/profile/winupgrade.bsky.social
+
 ## NO OPTIONAL DRIVERS INCLUDED AND THEY'LL NEVER BE. IF YOU WANT TO HAVE SUCH, PLEASE CONSIDER INTEGRATE THEM USING NLITE OR BY INSTALLING DRIVERS FOR YOUR SPECIFIC HW AFTER THE MAIN OS INSTALLATION!!!!
 
 ## What included:
